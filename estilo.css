@@ -1,0 +1,68 @@
+body{
+text-align: center;
+    background-color: white;
+justify-content: center;
+
+}
+
+.container-1{
+    
+       
+    width:400px;
+        margin-top: 80px;
+        background-color: white;
+        border-radius: 5px;
+padding:30px;
+background-color: rgb(230, 224, 224);
+
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.calculadora {
+
+width: 400px;
+
+
+
+}
+
+#display{
+
+font-size: 2em;
+width:100%;
+text-align: right;
+
+}
+
+.btn { 
+width: 100%;
+height: 50px;
+cursor: pointer;
+border: none;
+background-color: rgb(189, 185, 185);
+
+}
+
+.btn:hover{
+
+    background-color: rgb(146, 144, 144);
+
+
+
+}
+
+
+.btn-clear{
+
+background-color: rgb(160, 18, 18);
+
+}
+
+.btn-clear:hover{
+
+
+    background-color: rgb(160, 18, 18);
+
+}
